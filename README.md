@@ -15,7 +15,8 @@ To run this project locally, follow these steps:
 1.	Clone the repository
 
 a.	Go to GitHub and, navigate to the main page of the codingTasks repository.
-b.	Above the list of files, click  Code.
+b.	Above the list of files, click  Code. [/n]
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SheetalKulk/codingTasks/blob/main/Images/1.%20Clone_1%20.png)
 
 c.	Copy the URL for the repository.

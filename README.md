@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 a.	Go to GitHub and, navigate to the main page of the codingTasks repository.
 b.	Above the list of files, click  Code.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../images/1. Clone_1.png)
 
 c.	Copy the URL for the repository.
 o	To clone the repository using HTTPS, under "HTTPS", click the copy URL to clipboard icon. 

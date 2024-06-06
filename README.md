@@ -18,34 +18,38 @@ o	Advanced Models
 1.	Clone the repository
     - Go to GitHub and, navigate to the main page of the codingTasks repository.
     - Above the list of files, click  Code.
-   ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]  (https://github.com/SheetalKulk/codingTasks/blob/main/Images/1.%20Clone_1%20.png)
+      
+   ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SheetalKulk/codingTasks/blob/main/Images/1.%20Clone_1%20.png)
 
-    - Copy the URL for the repository.
-      - To clone the repository using HTTPS, under "HTTPS", click the copy URL to clipboard icon. 
-      - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, 
-        then click the copy URL to clipboard icon .
-      - To clone a repository using GitHub CLI, click GitHub CLI, then click the copy URL to clipboard icon.
+ - Copy the URL for the repository.
+   - To clone the repository using HTTPS, under "HTTPS", click the copy URL to clipboard icon. 
+   - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, 
+     then click the copy URL to clipboard icon .
+   - To clone a repository using GitHub CLI, click GitHub CLI, then click the copy URL to clipboard icon.
+     
      ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SheetalKulk/codingTasks/blob/main/Images/2.%20Clone_2.png)
 
-    - Open Terminal.
-    - Change the current working directory to the location where you want the cloned directory.
-    - Type git clone, and then paste the URL you copied earlier.
+ - Open Terminal.
+ - Change the current working directory to the location where you want the cloned directory.
+ - Type git clone, and then paste the URL you copied earlier.
 
-       ##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-    - Press Enter to create your local clone.
+    ##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    
+ - Press Enter to create your local clone.
 
-       ##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    ##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
      ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SheetalKulk/codingTasks/blob/main/Images/3.%20Clone_3.png)
 
 2.	Install Necessary Modules: Ensure you have Python and Jupyter Notebook installed. You can install necessary packages. 
 
-•	  pip3 install pandas 
-•	  pip3 install numpy  
-•	  pip3 install seaborn
-•	  pip3 install matplotlib.pyplot
-•	  pip3 install scikit-learn
-•	  pip3 install seaborn
+   - pip3 install pandas
+   - pip3 install numpy  
+   - pip3 install seaborn
+   - pip3 install matplotlib.pyplot
+   - pip3 install scikit-learn
+   - pip3 install seaborn
+
 Once Installed now we can import it inside our python code.
 
 ## Usage
